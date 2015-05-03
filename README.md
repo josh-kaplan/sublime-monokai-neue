@@ -11,9 +11,6 @@
 
 #### a. Package Control
 
-Monokai Neue has not been added to Package Control yet. Please use manual
-installation for now.
-
 If you already have [Package Control](https://packagecontrol.io/) installed in
 Sublime Text:
 
