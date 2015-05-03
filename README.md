@@ -81,7 +81,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-##### License(s) Compliance
+#### License(s) Compliance
 
 This theme is based on Monokai Extened. The repository is located at:
   https://github.com/jonschlinkert/sublime-monokai-extended 
