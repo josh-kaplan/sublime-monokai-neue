@@ -9,7 +9,7 @@
 
 ### 1. Installation
 
-#### a) Package Control
+#### *Package Control*
 
 Monokai Neue has not been added to Package Control yet. Please use manual
 installation for now.
@@ -23,7 +23,7 @@ Sublime Text:
 * Search for "**Monokai Neue**" and click <kbd>enter</kbd>.
 
 
-#### b) Manual Installation
+#### *Manual Installation*
 
 Go to `Preferences -> Browse Packages`, and then either download and unzip this
 package into that directory or use the following command:
