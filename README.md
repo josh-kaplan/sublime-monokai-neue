@@ -29,7 +29,7 @@ Go to `Preferences -> Browse Packages`, and then either download and unzip this
 package into that directory or use the following command:
 
 ``` bash
-git clone https://github.com/josh-kaplan/monokai-neue-dev.git "Monokai-Neue"
+git clone https://github.com/josh-kaplan/sublime-monokai-neue.git "Monokai-Neue"
 ```
 
 ### 2. Switch Themes
