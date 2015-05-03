@@ -37,13 +37,14 @@ git clone https://github.com/josh-kaplan/monokai-neue-dev.git "Monokai-Neue"
 In Sublime Text, go to `Preferences -> Color Scheme -> User -> Monokai-Neue`.
 
 
-## Monokai Enhancements
+## Features
+### Monokai Enhancements
 
 This project began as a fork of Monokai Extended and contains all the 
 enhancements and capabilities of that project with additional features. The 
 main feature added has been support for multi-level JSON highlighting.
 
-## Examples
+### Examples
 
 Coming soon!
 
