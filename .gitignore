@@ -1,0 +1,4 @@
+*.sublime-*
+samples
+tools
+packages.json
