@@ -997,8 +997,9 @@ See LICENSE-MIT and README.md files in project root diretory.
         <string>#3bc0f0</string>
       </dict>
     </dict>
-    <!-- Note: This got broken during Sublime Build 3114
-         it affects all strings in Python, however, PythonImproved is fine
+    <!-- 
+        Note: This got broken during Sublime Build 3114
+        it affects all strings in Python, however, PythonImproved is fine
     -->
     <!--
     <dict>
