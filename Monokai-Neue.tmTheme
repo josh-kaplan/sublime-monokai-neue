@@ -997,6 +997,10 @@ See LICENSE-MIT and README.md files in project root diretory.
         <string>#3bc0f0</string>
       </dict>
     </dict>
+    <!-- Note: This got broken during Sublime Build 3114
+         it affects all strings in Python, however, PythonImproved is fine
+    -->
+    <!--
     <dict>
       <key>name</key>
       <string>docstring</string>
@@ -1008,6 +1012,20 @@ See LICENSE-MIT and README.md files in project root diretory.
           <string>italic</string>
           <key>foreground</key>
           <string>#77777E</string>
+      </dict>
+    </dict>
+    -->
+    <dict>
+      <key>name</key>
+      <string>docstring</string>
+      <key>scope</key>
+      <string>string.docstring</string>
+      <key>settings</key>
+      <dict>
+          <key>fontStyle</key>
+          <string>italic</string>
+          <key>foreground</key>
+          <string>#FF0000</string>
       </dict>
     </dict>
     <!--
