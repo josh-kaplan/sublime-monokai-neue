@@ -41,18 +41,9 @@ This project began as a fork of Monokai Extended and contains all the
 enhancements and capabilities of that project with additional features. The 
 main feature added has been support for multi-level JSON highlighting.
 
-### Examples
-
-Coming soon!
-
 ## Author
 
 **Josh Kaplan**
-
-+ [http://joshkaplan.org](http://joshkaplan.org)
-+ [http://twitter.com/_jkaplan](http://twitter.com/_jkaplan)
-+ [http://github.com/josh-kaplan](http://github.com/josh-kaplan)
-
 
 ## License & Copyright
 
